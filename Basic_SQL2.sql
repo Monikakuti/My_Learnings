@@ -48,6 +48,9 @@ ORDER BY emp_count DESC;
 --MAX() / MIN() – Highest / Lowest
 --GROUP BY – Group rows by category (like by department)
 
+--🔁 WHERE = before GROUP BY
+--🔁 HAVING = after GROUP BY
+
 --COUNT
 --?? COUNT(*) = count all rows
 --?? AS total_employees = rename the output column
